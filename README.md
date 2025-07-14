@@ -1,0 +1,2 @@
+# RPGAttackFrameWork_PersonTest
+个人学习项目。用于构建一个RPG类型的战斗框架。主要基于MBF的思想，基于次进一步拓展
